@@ -9,15 +9,15 @@
 
 **Task:**
 
-1. Analysis and Report:
+**1. Analysis and Report:**
 - Identify root causes of quality issues.
 - Present detailed findings to project manager and fabricator.
 
-2. Recommendations:
+**2. Recommendations:**
 - Provide actionable solutions to address quality concerns.
 
-3. Prevention:
+**3. Prevention:**
 - Propose measures to prevent future manufacturing delays.
 
-4. Timely Completion:
+**4. Timely Completion:**
 - Ensure adherence to deadlines for completing structural components.
